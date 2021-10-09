@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$database = "Movie_Database_Mulesoft";
+$database = "movies_mulesoft";
 
 $conn = mysqli_connect($servername,$username,$password,$database);
 
