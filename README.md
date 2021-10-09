@@ -4,9 +4,9 @@
 
 ## 2. 'movies.sql' file contains the sql code for creating table, inserting values into table and some queries.
 
-## 3. 'dbconnect.php' file connects XAMPP server to our project.
+## 3. 'connection.php' file connects XAMPP server to our project.
 
-## 4.'index.php' file contains how we can include database connection in any part of our project.
+## 4.'dbindex.php' file contains how we can include database connection in any part of our project.
 
 
 # Queries:
